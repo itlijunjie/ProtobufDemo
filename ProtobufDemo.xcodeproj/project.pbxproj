@@ -13,7 +13,7 @@
 		0E3C2E811F69444300F26E8D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E3C2E7F1F69444300F26E8D /* Main.storyboard */; };
 		0E3C2E831F69444300F26E8D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E3C2E821F69444300F26E8D /* Assets.xcassets */; };
 		0E3C2E861F69444300F26E8D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E3C2E841F69444300F26E8D /* LaunchScreen.storyboard */; };
-		0E3C2E971F6946BC00F26E8D /* Result.pbobjc.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E3C2E961F6946BC00F26E8D /* Result.pbobjc.m */; };
+		0E3C2E971F6946BC00F26E8D /* Result.pbobjc.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E3C2E961F6946BC00F26E8D /* Result.pbobjc.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		20794D78DEB5D39659813A07 /* Pods_ProtobufDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 43791B8025FBD3A4DDCFDB93 /* Pods_ProtobufDemo.framework */; };
 /* End PBXBuildFile section */
 
